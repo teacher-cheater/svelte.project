@@ -1,0 +1,39 @@
+.fund {
+  max-width: 1502px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 90%;
+  color: #2b184e;
+  margin-bottom: 100px;
+}
+.content {
+  color: #ffffff;
+}
+.top {
+  padding: 60px 77px 30px 54px;
+  background: url("../../img/bg-fund.png") 0% 100% / contain no-repeat;
+  max-width: 648px;
+  height: 295px;
+}
+.subtitle {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 110%;
+}
+.link {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+}
+.text {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+}

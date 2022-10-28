@@ -5,8 +5,18 @@
 <section class={s.action}>
   <div class={s.content}>
     <div class={s.left}>
-      <!-- svelte-ignore a11y-img-redundant-alt -->
-      <img class={s.image} src="./img/img1.png" alt="image" />
+      <div class={s.items}>
+        <!-- svelte-ignore a11y-img-redundant-alt -->
+        <img src="./main-img.png" class={s.imageMain} alt="image" />
+        <!-- svelte-ignore a11y-img-redundant-alt -->
+        <img src="./action-bg.png" class={s.imageLeft} alt="image" />
+      </div>
+      <div class={s.items}>
+        <!-- svelte-ignore a11y-img-redundant-alt -->
+        <img src="./img3.png" class={s.imageUnder} alt="image" />
+        <!-- svelte-ignore a11y-img-redundant-alt -->
+        <img src="./actions.png" class={s.imageRacoon} alt="image" />
+      </div>
     </div>
     <div class={s.right}>
       <h2 class={s.text}>
@@ -14,6 +24,7 @@
         Meine Liebe. Участвуйте в конкурсе и выигрывайте призы!
       </h2>
       <a href="#" class={s.button}>Участвовать</a>
+      <!--<div class={s.background} />-->
     </div>
   </div>
 </section>
