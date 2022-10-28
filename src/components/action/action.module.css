@@ -1,0 +1,34 @@
+.action {
+  max-width: 1502px;
+  margin: 0 auto;
+  padding: 0 15px;
+  /*display: flex;
+  flex-direction: column;*/
+}
+.content {
+  display: flex;
+}
+.left {
+  flex: 1 1 50%;
+}
+.image {
+  display: block;
+}
+.right {
+  flex: 1 1 50%;
+  background: url("../img/img-1.png") 100% 100% / contain no-repeat;
+}
+.button {
+  align-items: center;
+  padding: 14px 79px;
+  gap: 4px;
+  background: #ffffff;
+  border-radius: 12px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+  color: #7d55c7;
+  display: inline-block;
+  text-align: center;
+  flex: 1 1 auto;
+}

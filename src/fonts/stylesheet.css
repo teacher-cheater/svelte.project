@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "GT Eesti Pro Text";
+    src: url("GTEestiProText-Medium.eot");
+    src: local("GT Eesti Pro Text Medium"), local("GTEestiProText-Medium"),
+        url("GTEestiProText-Medium.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProText-Medium.woff2") format("woff2"), url("GTEestiProText-Medium.woff") format("woff"),
+        url("GTEestiProText-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Display";
+    src: url("GTEestiProDisplay-Bold.eot");
+    src: local("GT Eesti Pro Display Bold"), local("GTEestiProDisplay-Bold"),
+        url("GTEestiProDisplay-Bold.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProDisplay-Bold.woff2") format("woff2"), url("GTEestiProDisplay-Bold.woff") format("woff"),
+        url("GTEestiProDisplay-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Text Book";
+    src: url("GTEestiProText-Book.eot");
+    src: local("GT Eesti Pro Text Book"), local("GTEestiProText-Book"),
+        url("GTEestiProText-Book.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProText-Book.woff2") format("woff2"), url("GTEestiProText-Book.woff") format("woff"),
+        url("GTEestiProText-Book.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Text";
+    src: url("GTEestiProText-Regular.eot");
+    src: local("GT Eesti Pro Text Regular"), local("GTEestiProText-Regular"),
+        url("GTEestiProText-Regular.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProText-Regular.woff2") format("woff2"), url("GTEestiProText-Regular.woff") format("woff"),
+        url("GTEestiProText-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Display";
+    src: url("GTEestiProDisplay-Medium.eot");
+    src: local("GT Eesti Pro Display Medium"), local("GTEestiProDisplay-Medium"),
+        url("GTEestiProDisplay-Medium.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProDisplay-Medium.woff2") format("woff2"), url("GTEestiProDisplay-Medium.woff") format("woff"),
+        url("GTEestiProDisplay-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Text";
+    src: url("GTEestiProText-Bold.eot");
+    src: local("GT Eesti Pro Text Bold"), local("GTEestiProText-Bold"),
+        url("GTEestiProText-Bold.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProText-Bold.woff2") format("woff2"), url("GTEestiProText-Bold.woff") format("woff"),
+        url("GTEestiProText-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GT Eesti Pro Display";
+    src: url("GTEestiProDisplay-Regular.eot");
+    src: local("GT Eesti Pro Display Regular"), local("GTEestiProDisplay-Regular"),
+        url("GTEestiProDisplay-Regular.eot?#iefix") format("embedded-opentype"),
+        url("GTEestiProDisplay-Regular.woff2") format("woff2"), url("GTEestiProDisplay-Regular.woff") format("woff"),
+        url("GTEestiProDisplay-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

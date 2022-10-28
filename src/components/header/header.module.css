@@ -1,0 +1,42 @@
+.header {
+  max-width: 1502px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+}
+
+.title {
+  font-weight: 700;
+  font-size: 200px;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #7d55c7;
+  gap: 24px;
+  justify-content: space-between;
+}
+.title span {
+  width: 336px;
+  height: 24px;
+  background: linear-gradient(44.16deg, #7352d6 1.43%, #a278ef 100%);
+  align-self: center;
+  margin-top: 35px;
+}
+
+.text {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 116%;
+  display: flex;
+  align-items: flex-end;
+  padding-right: 110px;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-style: normal;
+  color: #7d55c7;
+  margin-bottom: 140px;
+}
