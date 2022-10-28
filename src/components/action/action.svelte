@@ -6,7 +6,7 @@
   <div class={s.content}>
     <div class={s.left}>
       <!-- svelte-ignore a11y-img-redundant-alt -->
-      <img class={s.image} src="img/img-1.png" alt="image" />
+      <img class={s.image} src="./img/img1.png" alt="image" />
     </div>
     <div class={s.right}>
       <h2 class={s.text}>

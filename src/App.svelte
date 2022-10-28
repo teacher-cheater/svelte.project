@@ -2,6 +2,7 @@
   //import svelteLogo from "./assets/svelte.svg";
   //import Counter from "./lib/Counter.svelte";
   import Header from "./components/header/header.svelte";
+  import Slider from "./components/slider/slider.svelte";
 </script>
 
 <main>
@@ -19,6 +20,7 @@
     <Counter />
   </div>-->
   <Header />
+  <Slider />
   <!--<p>
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank"
       >SvelteKit</a

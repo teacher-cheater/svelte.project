@@ -1,0 +1,39 @@
+.slider {
+}
+.title {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 90%;
+  color: #2b184e;
+}
+.content {
+  display: flex;
+  flex: 1 1 33%;
+}
+.items {
+  color: #ffffff;
+  padding: 48px 56px 0 56px;
+  background: linear-gradient(44.16deg, #7352d6 1.43%, #a278ef 100%);
+}
+.icon {
+  margin-bottom: 32px;
+}
+.text {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 110%;
+  margin-bottom: 32px;
+}
+.subtitle {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+  margin-bottom: 56px;
+  /*display: flex;
+  align-items: flex-end;*/
+}
+.link {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+}

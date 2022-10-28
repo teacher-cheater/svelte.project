@@ -12,11 +12,19 @@
   flex: 1 1 50%;
 }
 .image {
-  display: block;
+  /*display: block;*/
 }
 .right {
   flex: 1 1 50%;
-  background: url("../img/img-1.png") 100% 100% / contain no-repeat;
+  background: url("./img/img1.png") 100% 100% / contain no-repeat;
+  background: #7d55c7;
+}
+.text {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 120%;
+  color: #ffffff;
+  margin-bottom: 32px;
 }
 .button {
   align-items: center;
