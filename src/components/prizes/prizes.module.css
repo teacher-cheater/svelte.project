@@ -1,0 +1,15 @@
+.prizes {
+  max-width: 1502px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 90%;
+  color: #2b184e;
+  margin-bottom: 100px;
+}
